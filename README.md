@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # API Fetcher
 
 A small Python script that fetches random jokes from the [Official Joke API](https://official-joke-api.appspot.com/), cleans up the data, and saves the results to a local JSON file.
@@ -67,3 +68,7 @@ and a `jokes.json` file will be created (or overwritten) in the project director
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+=======
+# Product-Data-Fetcher
+Built a Python script that pulls live API data, cleans and normalizes responses, and outputs structured JSON for downstream use.
+>>>>>>> e83a659dcc58cc9dc5f70991d2c069b41c38d1c7
